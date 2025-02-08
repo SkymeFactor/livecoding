@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/ITMO/2sem/ProgBase/livecodingVladSergey/livecoding/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++23 -o CMakeFiles\\app.dir\\main.cpp.obj -c C:\\Users\\User\\Desktop\\ITMO\\2sem\\ProgBase\\livecodingVladSergey\\livecoding\\main.cpp",
+  "file": "C:\\Users\\User\\Desktop\\ITMO\\2sem\\ProgBase\\livecodingVladSergey\\livecoding\\main.cpp",
+  "output": "CMakeFiles\\app.dir\\main.cpp.obj"
+}
+]
