@@ -3,4 +3,5 @@ project(app VERSION 0.1.0 LANGUAGES C CXX)
 
 SET(CMAKE_CXX_STANDARD 23)
 
-add_executable(app main.cpp)
+add_subdirectory(bin)
+add_subdirectory(lib)
