@@ -1,0 +1,3 @@
+/home/shlang/projects/livecoding_training/build/CMakeFiles/app.dir
+/home/shlang/projects/livecoding_training/build/CMakeFiles/edit_cache.dir
+/home/shlang/projects/livecoding_training/build/CMakeFiles/rebuild_cache.dir
