@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/ITMO/2sem/ProgBase/livecodingVladSergey/livecoding/build/CMakeFiles/app.dir
+C:/Users/User/Desktop/ITMO/2sem/ProgBase/livecodingVladSergey/livecoding/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/ITMO/2sem/ProgBase/livecodingVladSergey/livecoding/build/CMakeFiles/rebuild_cache.dir
